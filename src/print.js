@@ -1,3 +1,5 @@
+import "./style.css";
+
 export default function printMe() {
-    console.error('I get called from print.js!');
+    console.error('update time 123');
 }
