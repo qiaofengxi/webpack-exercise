@@ -1,2 +1,2 @@
 # webpack-exercise
-some small demo
+上手小练习
